@@ -1,0 +1,7 @@
+print("enter your name and pasword and also age ")
+a=input("enter you name ")
+b=input("enter your age")
+b=int(b)
+c=input("enter your pasword")
+c=int(c)
+print(f"the age is {b} and the pasword is {c} and the name is {a} ",)

@@ -4,3 +4,6 @@ age=20
 will work, this is the most basic part of python """
 #this is the single line comment 
 print(Name,age) 
+print(type(age))
+float(age)
+print(float(32))
